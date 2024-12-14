@@ -3,7 +3,9 @@ MyPortfolio
 A sleek, modern, and responsive portfolio built using HTML, CSS, and JavaScript.
 
 Portfolio Preview
-🔗 Link to Portfolio
+![image](https://github.com/user-attachments/assets/69576906-2d77-4820-8060-23b28412cd1a)
+
+🔗 Link to Portfolio: https://portfolio-template-chi-eight.vercel.app/
 
 All you need to know about me, my projects, and skills can be found here. Personalize the portfolio by modifying the index.html, styles.css, and script.js files to reflect your own style and content. If you make improvements and want to share, feel free to open a pull request. For any issues, please report them here.
 
